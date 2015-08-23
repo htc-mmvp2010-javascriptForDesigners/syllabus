@@ -15,7 +15,15 @@ Learn the exciting and dynamic language used to power the web and mobile environ
 9.	Develop integrations with third party APIs (application programming interfaces)
 10.	Demonstrate debugging procedures 
 
-You will complete assignments using forks (note: this setup means that **students will be able to see one another's work**):
+###Github
+We will be using github for the sharing of files, submission of work, and building of your professional online representation.
+
+Start your github journey by [**trying Git**][tryGit]. We will be using command line tools to access git and gitHub. [**Code Academy**][codeAcademy] has a course on learning to use the command line tools. Do it! There are many, many other tools for learning git, but the best way is to just stumble through it until it starts to feel comfortable.
+
+###Projects and Homework
+You will complete assignments using forks (note: this setup means that **students will be able to see one another's work**)
+
+
 
 ### Completing assignments
 
@@ -33,6 +41,8 @@ Follow these steps for each assignment:
 Code review with line-by-line feedback directly within the pull request will be provided. You may submit corrections by pushing fixes up to their forks, which will be reflected in the pull request.
 
 <!-- Links -->
+[codeAcademy]: http:www.codeacademy.com
+[tryGit]: https://try.github.io/levels/1/challenges/1
 [create-repo]: https://help.github.com/articles/create-a-repo
 [private-repos]: /guide/private_repos
 [add-to-team-action]: https://github.com/education/teachers_pet/#giving-others-access

@@ -1,7 +1,7 @@
 # Syllabus
 ##MMVP2010 Javascript for Designers
 ###Course Description
-Learn the exciting and dynamic language used to power the web and mobile environments. Use javascript to control screen elements, power animations. Build entertaining and visually rich interactive user experiences deployed on different devices.
+Learn the exciting and dynamic language used to power the web and mobile environments. Use javascript to control screen elements and power animations. Build entertaining and visually rich interactive user experiences deployed on different devices.
 
 ###Course Goals
 1.	Demonstrate the use of variables, conditionals, loops, and functions
@@ -20,10 +20,13 @@ We will be using github for the sharing of files, submission of work, and buildi
 
 Start your github journey by [**trying Git**][tryGit]. We will be using command line tools to access git and gitHub. [**Code Academy**][codeAcademy] has a course on learning to use the command line tools. Do it! There are many, many other tools for learning git, but the best way is to just stumble through it until it starts to feel comfortable.
 
+###Course Structure
+Look first on D2L for information or for additional announcements. Lectures will be posted as a mix of videos ([**http://www.youtube.com/theartboyjohn**][youtubejohn] and webpages (posted here on github). You are expected to work through the lecture material, challenge assignments, and activities on your own each week. Class time will be used to discuss industry topics, review projects, and work through issues. The burden is placed on you to complete the work each week before class.
+
 ###Projects and Homework
-You will complete assignments using forks (note: this setup means that **students will be able to see one another's work**)
+You will complete assignments using forks (note: this setup means that **students will be able to see one another's work**). Each project will have its own repository listed on the homepage for the course. 
 
-
+Look first on D2L for information or for additional announcements. Grades will be posted on D2L.
 
 ### Completing assignments
 
@@ -40,7 +43,15 @@ Follow these steps for each assignment:
 
 Code review with line-by-line feedback directly within the pull request will be provided. You may submit corrections by pushing fixes up to their forks, which will be reflected in the pull request.
 
+##Reosources
+github
+
+stackOverflow
+
+mdn
+
 <!-- Links -->
+[youtubejohn]: http://www.youtube.com/theartboyjohn
 [codeAcademy]: http:www.codeacademy.com
 [tryGit]: https://try.github.io/levels/1/challenges/1
 [create-repo]: https://help.github.com/articles/create-a-repo

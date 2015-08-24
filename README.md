@@ -43,7 +43,7 @@ Follow these steps for each assignment:
 
 Code review with line-by-line feedback directly within the pull request will be provided. You may submit corrections by pushing fixes up to their forks, which will be reflected in the pull request.
 
-##Reosources
+##Resources
 github
 
 stackOverflow
